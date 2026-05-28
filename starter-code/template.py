@@ -340,7 +340,6 @@ def streaming_chatbot() -> None:
         except Exception as e:
             print(f"\n\033[91m[Error Calling API]: {e}\033[0m\n")
 
-    raise NotImplementedError("Implement streaming_chatbot")
 
 
 # ---------------------------------------------------------------------------
