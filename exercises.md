@@ -26,10 +26,10 @@ Bạn sẽ thấy output so sánh phản hồi của GPT-4o và GPT-4o-mini.
 Gọi `call_openai` với các giá trị temperature 0.0, 0.5, 1.0 và 1.5 sử dụng prompt **"Hãy kể cho tôi một sự thật thú vị về Việt Nam."**
 
 **Bạn nhận thấy quy luật gì qua bốn phản hồi?** (2–3 câu)
-> *Câu trả lời của bạn*
+> *Câu trả lời có temperature các cao thì càng sáng tạo*
 
 **Bạn sẽ đặt temperature bao nhiêu cho chatbot hỗ trợ khách hàng, và tại sao?**
-> *Câu trả lời của bạn*
+> *Chatbot hỗ trợ khách hàng cần thông tin chính xác, vì vậy không nên set temperature quá cao mà chỉ trong khoảng 0 đến 0.5*
 
 ---
 
